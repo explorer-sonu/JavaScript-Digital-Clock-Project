@@ -1,5 +1,7 @@
 # JavaScript-Digital-Clock-Project
 This is a simple digital clock project implemented in JavaScript. It displays the current time on a webpage in a digital format.
+ 👉
+[Live Preview](http://localhost:3000/)
 ## Features
 
 - Real-Time Clock: The clock updates in real-time to display the current time and date.
